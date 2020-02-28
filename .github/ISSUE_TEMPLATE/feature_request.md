@@ -2,9 +2,9 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: ''
-assignees: ''
-projects: https://github.com/FBW-17/React-EslintExtended/projects/1
+labels: 'documentation'
+assignees: 'LeandroDCI'
+projects: https://github.com/FBW-17/React-EslintExtended/issues/new?&&projects=test/1
 
 ---
 
