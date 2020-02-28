@@ -4,6 +4,7 @@ about: Suggest an idea for this project
 title: ''
 labels: ''
 assignees: ''
+projects: https://github.com/FBW-17/React-EslintExtended/projects/1
 
 ---
 
