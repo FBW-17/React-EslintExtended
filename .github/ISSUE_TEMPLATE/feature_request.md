@@ -4,7 +4,7 @@ about: Suggest an idea for this project
 title: 'Yo'
 labels: 'documentation'
 assignees: 'LeandroDCI'
-projects: FBW-17/1
+projects: https://github.com/FBW-17/React-EslintExtended/issues/new?title=Bug+fix&projects=FBW-17/1
 
 ---
 
